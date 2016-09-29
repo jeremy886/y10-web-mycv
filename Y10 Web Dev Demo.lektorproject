@@ -1,2 +1,5 @@
 [project]
 name = Y10 Web Dev Project - My CV
+
+[servers.ghpages]
+target = ghpages+https://jeremy886/y10-web-mycv
