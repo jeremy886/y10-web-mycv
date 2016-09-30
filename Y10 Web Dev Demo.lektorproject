@@ -1,5 +1,5 @@
 [project]
-name = Y10 Web Dev Project - My CV
+name = MyCV
 
 [servers.ghpages]
-target = ghpages+https://jeremy886/y10-web-mycv
+target = ghpages+https://jeremy886/y10-web-mycv?mycv.alkira.school
