@@ -2,4 +2,4 @@
 name = MyCV
 
 [servers.ghpages]
-target = ghpages+https://jeremy886/y10-web-mycv?mycv.alkira.school
+target = ghpages://jeremy886/y10-web-mycv?mycv.alkira.school
